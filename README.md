@@ -101,5 +101,15 @@ Ensemble Techniques
  Ensemble methods is a machine learning technique that combines several base models in order to produce one optimal predictive model. To better understand this definition lets take a step back into ultimate goal of machine learning and model building. This is going to make more sense as I dive into specific examples and why Ensemble methods are used.
 
 
+## Connect With Me
+
+If you found this project helpful, feel free to connect with me and follow my work:
+
+ 📌LinkedIn: https://www.linkedin.com/in/roshan-chourasia-122a8b252
+
+💼 GitHub: https://github.com/roshanchourasia001
+
+⭐ Don't forget to star this repository if you found it useful!
+
 
 
