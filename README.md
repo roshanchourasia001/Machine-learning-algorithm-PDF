@@ -1,6 +1,6 @@
 # Machine Learning and All Algorithms
 
-* [Machine_Learning][static\machine learning.jpeg]
+* [Machine_Learning][C:\Users\ASUS\Downloads\Machine-learning-algorithm-PDF-main\Machine-learning-algorithm-PDF-main\static\SVM.jpg]
 
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
 
