@@ -1,6 +1,6 @@
 # Machine Learning and All Algorithms
 
-![Machine Learning](static/machine%20learning.jpeg)
+![Machine Learning](static/machine-learning.jpeg)
 
 “Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.”
 
